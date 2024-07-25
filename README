@@ -1,0 +1,6 @@
+The objective of this study is to design and develop a low-cost Arduino autonomous robot cleaner using mapping algorithm to clean floor area of hospitals.
+The idea is basically to detect any obstacles with the help of sensor and sent its output to microcontroller that will control the autonomous vacuum cleaner movement.
+A low-cost solution is proposed in this study by using HC-SR04 ultrasonic sensor for obstacle avoidance and control by Arduino UNO.
+By using an autonomous vacuum cleaner, user can turn ON the autonomous vacuum robot to clean without any help of a human operator.
+Additionally, instead of using the traditional button or switch to activate the robot, voice recognition through Google Assistant implemented in this project. 
+Hence, this provides a more user friendly platform not only for normal user but also help visually impaired people to activate the robot.
